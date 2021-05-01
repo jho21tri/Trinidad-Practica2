@@ -1,4 +1,4 @@
-# practica2_jaureguisaavedra
+# practica2_Trinidad Echevarria
 
 A new Flutter project.
 
